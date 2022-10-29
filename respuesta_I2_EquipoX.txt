@@ -1,7 +1,13 @@
 Silvera Britez Micaela
 Pinto Miguel
 a) Para actualizar el repositorio hay que usar el boton sync fork.
-
+b) Si
 c) Si, puede.
-
 d) Depende de lo que se quiera realizar, estan las dos opciones disponibles.
+e)Los pasos que se usaron son:
+
+git clone
+git add .
+git commit -m ""
+git push
+git pull 
